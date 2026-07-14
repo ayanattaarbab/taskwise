@@ -2,7 +2,6 @@
   "name": "taskwise",
   "private": true,
   "version": "1.0.0",
-  "description": "Taskwise - a simple, fast todo list to plan your day and track what's done.",
   "type": "module",
   "scripts": {
     "dev": "vite",
